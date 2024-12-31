@@ -10,6 +10,5 @@ Currently, two official plugins are available:
  ### 🛠️ Home Section
 
 ![img alt](https://github.com/manaralamri/3D-Learnland-Island/blob/a60c3b2d09c0c08c73942297a11a18fe2a76f856/Home.jpeg)
-![img alt]()
- ### 🛠️ project and about Section
- ![img alt]()
+![img alt](https://github.com/manaralamri/3D-Learnland-Island/blob/460bec8c52669e5f69f4ad579f1dacb3c8463a9a/home2.jpeg)
+
